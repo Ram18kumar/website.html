@@ -1,0 +1,12 @@
+p:hover{
+    color: aquamarine;
+}
+h3{
+    background-color: brown;
+    padding: 20px;
+    text-align: center;
+}
+th{
+    border: 20px;
+    padding: 20px;
+}
